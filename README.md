@@ -1,0 +1,2 @@
+# WordleSolver
+Helps solve wordles
